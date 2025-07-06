@@ -5,7 +5,7 @@ What a strange idea... ^^
 
 ## 1 - the context : 
 
-I met up again with a friend who will soon be retired and who has been a tube amp enthusiast for a very long time.
+I met up again with a friend (JM) who will soon be retired and who has been a tube amp enthusiast for a very long time.
 He repairs them, makes them, modifies them and so on.
 
 
@@ -32,9 +32,13 @@ I'd like to put 2 rows of 5U high and 3 rows of 1U high for utilities that will 
 
 Here you'll see the modules in place
 
-<img src='Pictures/Tableau.png' width='600px'/>
+<img src='Pictures/Tableau.png' width='800px'/>
 
+Here you'll see the model I did for my friend, because he wanted too see how it could look like. Here is my quick and dirty model ^^'
 
+<img src='Pictures/Maquette1.jpg' width='200px'/>
+
+<img src='Pictures/Maquette2.jpg' width='200px'/>
 
 ## 3 - Power Supply 
 
