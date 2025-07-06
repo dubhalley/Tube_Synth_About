@@ -32,7 +32,7 @@ I'd like to put 2 rows of 5U high and 3 rows of 1U high for utilities that will 
 
 Here you'll see the modules in place
 
-<img src='Pictures/Tableau.png' width='400px'/>
+<img src='Pictures/Tableau.png' width='600px'/>
 
 
 
