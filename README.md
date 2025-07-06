@@ -75,27 +75,49 @@ To be continued...
 
 * AUX IN with the help of a VCA Metasonix - https://sdiy.info/wiki/Audio_synthesis_via_vacuum_tubes/Tube_VCA
 
+Tube = EF86
+
 * VCO Néon René Schmitz - https://www.schmitzbits.de/vtvco.html
+
+Tubes = Neon Lamp and 12AX7
 
 * VCO René Schmitz - https://www.schmitzbits.de/vtvco2.html
 
+Tubes = 2D21 and 6N16B
+
 * VCO Dual Metasonix - https://sdiy.info/wiki/Audio_synthesis_via_vacuum_tubes/Metasonix_TS-23_dual_VCO
+
+Tubes = 6AL5, 2 x 2D21 and 6BN6
 
 * VCF Low Pass René Schmitz - https://www.schmitzbits.de/vtvcf.html
 
+Tubes = 6N1P and EF86
+
 * VCF Filterbank Metasonix - https://sdiy.info/wiki/Audio_synthesis_via_vacuum_tubes/Metasonix_TS-22_pentode_filterbank
+
+Tubes = 6AL5 and 5 x 6AK5
 
 * NOISE CGS - https://sdiy.info/wiki/CGS_tube_noise_source
 
+Tubes = 2D21 and 12AX7
+
 * VCA René Schmitz - https://www.schmitzbits.de/vtvca.html
+
+Tubes = 3 x 6J1B and 6N16B
 
 * VCA Lmnc - https://www.lookmumnocomputer.com/valve-distorting-vca
 
+Tubes = 12AX7
+
 * WAVESHAPER Metasonix - https://sdiy.info/wiki/Audio_synthesis_via_vacuum_tubes/Metasonix_TS-21_hellfire_modulator
+
+Tubes = AL5, 6AK5, 2 x 6AQ8 and 6AR8
 
 * RING MOD - No schema found for the moment
 
 ### Without Tubes :
+
+Github is full of schemes I've never tried before... When that's all that's left, the hard part will be over.
 
 * MULTIPLE x 1 actif et passif
 
