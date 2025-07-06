@@ -18,7 +18,7 @@ And then, one day he says to me: "How would you like to make a tube modular" :o
 
 I dream about it at night now ... ^^
 
-<u>First of all, I'd like to extend my warmest thanks to Eric Barbour (https://www.metasonix.com/), Rene Schmitz (https://www.schmitzbits.de/), Marc Bareille (http://m.bareille.free.fr/index.htm), Sam Battle (https://www.lookmumnocomputer.com/) and Ken Stone (https://open4umodular.github.io/synthpanel/) for sharing their schemas.</u>
+**First of all, I'd like to extend my warmest thanks to Eric Barbour (https://www.metasonix.com/), Rene Schmitz (https://www.schmitzbits.de/), Marc Bareille (http://m.bareille.free.fr/index.htm), Sam Battle (https://www.lookmumnocomputer.com/) and Ken Stone (https://open4umodular.github.io/synthpanel/) for sharing their schemas.**
 
 **But also my dear JM, without whom this project would not be possible.**
 
