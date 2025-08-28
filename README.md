@@ -1,4 +1,4 @@
-# Tube_Synth
+# Tube_Synth_About
 
 A 5U vacuum tube modular synth.
 What a strange idea... ^^
