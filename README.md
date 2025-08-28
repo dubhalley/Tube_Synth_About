@@ -54,20 +54,8 @@ There will be 3 differents voltage at least :
 I'll be sure to make a documentation to find the right voltages with this kind of material. :)
 
 
-We'll be using terminal strips for the lamps, making direct connections between tubes and components, not PCBs, but wire on the fly from component to component.
 
-<img src='Pictures/Barrette de connexion.png' width='200px'/>
-
-
-There will still be some pcb's for utility modules that are not tube base, such as multiple...
-
-
-## 4 - Front Panel
-
-We'll experiment with dibond, then use a CNC to engrave the final faces on aluminium.
-
-
-## 5 - Modules
+## 4 - Modules
 
 Here's the list of planned modules, but changes can always be made until the synth is finished :D
 
@@ -138,16 +126,23 @@ Github is full of schemes I've never tried before... When that's all that's left
 * S/H + Seq x 1
 
 
-## 6 - CaseS, Yes, this project requires 2 cases
-
-* One for the power supply (7Kg only the transformer)
-
-* One for the synth
-
-## 7 - Where can I find the tubes I need ?
+## 5 - Where can I find the tubes I need ?
 
 I found this French site that lists a quantity of lamps that I never imagined...
 
 What's more, it's only 100km from my home ^^
 
 https://www.vintelec.com/
+
+Or an old Russian factory : https://tubes-store.com/
+
+## 6 - Further readings
+
+* https://www.circuitbread.com/textbooks/lessons-in-electric-circuits-volume-vi-experiments/discrete-semiconductor-circuits/vacuum-tube-audio-amplifier
+
+* https://www.tropicalfishvintage.com/blog/2019/7/4/on-vacuum-tube-heaters
+
+* https://oestex.com/tubes/wiring.html
+
+* https://www.tubesandmore.com/products/saga-vacuum-tube-history
+
