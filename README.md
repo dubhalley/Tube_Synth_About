@@ -37,11 +37,6 @@ Here you'll see the modules in place
 
 <img src='Pictures/Tableau.png' width='800px'/>
 
-Here you'll see the model I did for my friend, because he wanted too see how it could look like. Here is my quick and dirty model ^^'
-
-<img src='Pictures/Maquette1.jpg' width='200px'/>
-
-<img src='Pictures/Maquette2.jpg' width='200px'/>
 
 ## 3 - Power Supply 
 
