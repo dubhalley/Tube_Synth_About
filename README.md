@@ -138,6 +138,8 @@ Or an old Russian factory : https://tubes-store.com/
 
 ## 6 - Further readings
 
+* https://blog.boozhoundlabs.com/a-vacuum-tube-hi-fi-primer-979678e829eb
+
 * https://www.circuitbread.com/textbooks/lessons-in-electric-circuits-volume-vi-experiments/discrete-semiconductor-circuits/vacuum-tube-audio-amplifier
 
 * https://www.tropicalfishvintage.com/blog/2019/7/4/on-vacuum-tube-heaters
