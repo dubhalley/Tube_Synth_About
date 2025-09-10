@@ -148,3 +148,5 @@ Or an old Russian factory : https://tubes-store.com/
 
 * https://www.tubesandmore.com/products/saga-vacuum-tube-history
 
+* http://www.geofex.com/article_folders/stargnd/stargnd.htm
+
