@@ -103,7 +103,7 @@ Tubes = 12AX7
 
 Tubes = AL5, 6AK5, 2 x 6AQ8 and 6AR8
 
-* RING MOD - No schema found for the moment
+* RING MOD - Metasonix by disaster - https://www.disasterelectric.com/p/tm-1-vacuum-tube-waveshaperringmod.html
 
 ### Without Tubes :
 
